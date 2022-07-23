@@ -1,0 +1,30 @@
+{
+    "name": "Tests",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "GameAssembly",
+        "Unity.TextMeshPro",
+        "Unity.Notifications",
+        "Unity.Notifications.Android",
+        "Unity.Notifications.iOS",
+        "Unity.Notifications.Tests",
+        "GooglePlayAssembly",
+        "GoogleMobileAdsAssembly",
+        "Unity.IAP.Purchasing.EditorTests",
+        "Unity.IAP.Purchasing.RunTimeTests"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
